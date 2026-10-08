@@ -37,3 +37,5 @@ Okay, so gotta try getting to grips with Supabase and my current stack: Next.js,
 Found an amazing tool called OpenCode, Jesus thank You! This thing coded the whole thing in an evening.
 
 Got frustrated with OpenCode and AI coding in general, it's just not fun at all. Wanna code something myself, and for this i need to specialize in some area. Frontend or backend i guess. Maybe a desktop app though, but WinUI 3 is also not good, it is a lot of boilerplate. I guess i'm stuck with Next.js and TailwindCSS.
+
+So, for the topic, maybe i can make a fuzzy search of the Bible, like in [Instant.Bible](https://instant.bible/). Tried this topic with a `fuzzywuzzy` library in Python, it takes a ton of time and doesn't deliver a result at all. Skip it for now.
